@@ -9,6 +9,14 @@ Naty WhatsApp PHP SDK is a library that facilitates the use of resources availab
 - Upload files, getting the mediaKey to send in messages.
 - Send personalized messages to a contact list.
 
+## Install
+
+```sh
+composer require kolinalabs/naty-whatsapp-sdk
+```
+
+## Use
+
 ```php
 
 use KolinaLabs\NatyApi;
