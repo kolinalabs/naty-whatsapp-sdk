@@ -1,4 +1,4 @@
-![Secretária Naty](/samples/nati001.png?raw=true)
+![Secretária Naty](samples/nati001.png?raw=true)
 
 # Naty WhatsApp PHP SDK
 
