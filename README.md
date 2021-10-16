@@ -48,4 +48,4 @@ $result = $naty->messages($whatsapp, $messages);
 $result = $whatsapp->send($messages);
 ```
 
-## For more info see [samples](https://github.com/kolinalabs/naty-whatsapp-sdk/samples)
+## For more info see [samples](https://github.com/kolinalabs/naty-whatsapp-sdk/tree/main/samples)
