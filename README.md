@@ -1,3 +1,5 @@
+![Secretária Naty](.github/nati001.png?raw=true)
+
 # Naty WhatsApp PHP SDK
 
 Naty WhatsApp PHP SDK is a library that facilitates the use of resources available in [API Naty](https://secretarianaty.com/).
