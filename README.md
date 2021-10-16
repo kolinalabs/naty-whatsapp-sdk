@@ -1,6 +1,6 @@
-![Naty](https://github.com/kolinalabs/naty-whatsapp-sdk/blob/main/samples/naty001.png)
-
 # Naty WhatsApp PHP SDK
+
+![Naty](https://github.com/kolinalabs/naty-whatsapp-sdk/blob/main/samples/naty001.png)
 
 Naty WhatsApp PHP SDK is a library that facilitates the use of resources available in [API Naty](https://secretarianaty.com/).
 
