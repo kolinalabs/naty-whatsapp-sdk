@@ -1,0 +1,34 @@
+{
+  "name": "kolinalabs/naty-whatsapp-sdk",
+  "description": "Naty Secretary WhatsApp PHP SDK",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0",
+  "keywords": [
+    "secretaria-naty",
+    "naty",
+    "naty-whatsapp",
+    "naty-whatsapp-php"
+  ],
+  "homepage": "https://github.com/kolinalabs/naty-whatsapp-sdk",
+  "authors": [
+    {
+      "name": "Claudinei Machado",
+      "email": "claudinei@kolinalabs.com",
+      "homepage": "https://github.com/cjchamado",
+      "role": "Founder"
+    }
+  ],
+  "support": {
+    "email": "contato@kolinalabs.com"
+  },
+  "autoload": {
+    "psr-4": {
+      "KolinaLabs\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.2.5 || ^8.0",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
