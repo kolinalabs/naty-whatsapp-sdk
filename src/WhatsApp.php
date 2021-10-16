@@ -16,7 +16,7 @@ namespace KolinaLabs;
  * 
  * @author Claudinei Machado <claudinei@kolinalabs.com>
  */
-class WhatsApp
+class WhatsApp implements \JsonSerializable
 {
   const STATUS_CONNECTED = 'CONNECTED';
 
@@ -112,5 +112,19 @@ class WhatsApp
     $data = json_decode($response->getBody()->getContents(), true);
 
     return $data;
+  }
+
+  public function jsonSerialize()
+  {
+      return $this->toArray();
+  }
+
+  public function toArray()
+  {
+    return [
+      'id' => $this->id,
+      'name' => $this->name,
+      'status' => $this->status
+    ];
   }
 }
