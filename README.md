@@ -1,4 +1,4 @@
-![Secretária Naty](samples/nati001.png?raw=true)
+![Naty](https://github.com/kolinalabs/naty-whatsapp-sdk/blob/main/samples/naty001.png)
 
 # Naty WhatsApp PHP SDK
 
